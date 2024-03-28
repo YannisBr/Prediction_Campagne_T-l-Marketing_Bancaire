@@ -1,6 +1,6 @@
 ** Problématique et Objectifs : 
 
-Le problème consiste à prédire si un client souscrira ou non à un dépôt à terme bancaire après une campagne de marketing direct.L'objectif est de construire un modèle de machine learning qui peut prédire cette probabilité avec une précision raisonnable, afin d'optimiser les futures campagnes de marketing.
+Le problème consiste à prédire si un client souscrira ou non à un dépôt à terme bancaire après une campagne de marketing direct. L'objectif est de construire un modèle de machine learning qui peut prédire cette probabilité avec une précision raisonnable, afin d'optimiser les futures campagnes de marketing.
 
 Les données sont issues des campagnes de marketing direct de l'institution bancaire portugaise. Chaque entrée représente un client et les détails de ses contacts lors de la campagne. Les features sont les différentes variables disponibles dans les données qui peuvent être utilisées pour prédire la souscription à un dépôt à terme. La variable cible est la souscription à un dépôt à terme (oui/non).
 
